@@ -6,10 +6,9 @@ Welcome to the **VanHeeschTools** GitHub organization! 🙋‍♀️
 
 ## :technologist: Pipelines
 
-- RNA-seq pipeline (short-read): [nf_rna_pipeline](https://github.com/VanHeeschTools)
-
+- RNA-seq pipeline (short-read): [nf_rna_pipeline](https://github.com/mars13/nf_rna_pipeline)
+- Long-read pipeline: [nf_longread_pipeline](https://github.com/VanHeeschTools/nf_longread_pipeline)
 - Ribo-seq pipeline: [nf_ribo_pipeline](https://github.com/VanHeeschTools/nf_ribo_pipeline)
-
 - Protein prediction pipeline: [nf_protein_prediction_pipeline](https://github.com/VanHeeschTools/nf_protein_prediction_pipeline)
 
 ------------
@@ -25,7 +24,7 @@ We welcome contributions from the community! You can:
 
 :envelope_with_arrow: **Contact**
 
-For more information or collaboration inquiries, please contact us via email at vanheesch@example.com.
+For more information or collaboration inquiries, please contact us via email at vanHeeschLab@prinsesmaximacentrum.nl.
 
 <!--
 
