@@ -6,7 +6,7 @@ Welcome to the **VanHeeschTools** GitHub organization! 🙋‍♀️
 
 ## :technologist: Pipelines
 
-- RNA-seq pipeline (short-read): [nf_rna_pipeline](https://github.com/mars13/nf_rna_pipeline)
+- RNA-seq pipeline (short-read): [nf_rna_pipeline](https://github.com/VanHeeschTools/nf_rna_pipeline)
 - Long-read pipeline: [nf_longread_pipeline](https://github.com/VanHeeschTools/nf_longread_pipeline)
 - Ribo-seq pipeline: [nf_ribo_pipeline](https://github.com/VanHeeschTools/nf_ribo_pipeline)
 - Protein prediction pipeline: [nf_protein_prediction_pipeline](https://github.com/VanHeeschTools/nf_protein_prediction_pipeline)
