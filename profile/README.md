@@ -22,6 +22,8 @@ We welcome contributions from the community! You can:
 
 :memo: **License**
 
+All our pipelines are under **MIT License**
+
 :envelope_with_arrow: **Contact**
 
 For more information or collaboration inquiries, please contact us via email at vanHeeschLab@prinsesmaximacentrum.nl.
